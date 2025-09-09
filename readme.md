@@ -106,3 +106,5 @@
 [] - todo: Conduct manual cross-browser compatibility testing across modern browsers.
 [] - todo: Perform a manual performance check using browser developer tools.
 [] - todo: Perform a final manual accessibility check, including keyboard navigation and screen reader testing.
+
+I will have to do these guys.
