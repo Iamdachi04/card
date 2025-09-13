@@ -1,6 +1,6 @@
 [X] - todo: Create the root project directory.
 [X] - todo: Create the main HTML file.
-[] - todo: Create core source directories for SCSS and JavaScript.
+[X] - todo: Create core source directories for SCSS and JavaScript.
 [] - todo: Create initial Sass partials for base and main styling.
 [] - todo: Establish the main JavaScript file.
 [] - todo: Create an empty assets directory.
