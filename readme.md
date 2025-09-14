@@ -1,9 +1,9 @@
 [X] - todo: Create the root project directory.
 [X] - todo: Create the main HTML file.
 [X] - todo: Create core source directories for SCSS and JavaScript.
-[] - todo: Create initial Sass partials for base and main styling.
-[] - todo: Establish the main JavaScript file.
-[] - todo: Create an empty assets directory.
+[X] - todo: Create initial Sass partials for base and main styling.
+[X] - todo: Establish the main JavaScript file.
+[X] - todo: Create an empty assets directory.
 [] - todo: Initialize the `package.json` file.
 [] - todo: Add `node-sass` as a development dependency and install it.
 [] - todo: Configure a Sass compilation script within `package.json` and ensure the output directory exists.
